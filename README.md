@@ -1,3 +1,8 @@
+<img width="1881" height="967" alt="image" src="https://github.com/user-attachments/assets/1986892a-0e3a-49cf-8b7e-5d6d93364183" />
+
+<img width="1591" height="537" alt="image" src="https://github.com/user-attachments/assets/1aa0b013-9711-4351-a040-47d65fd92a4c" />
+
+
 # Knowledge Sharing Portal
 
 A **full-stack Knowledge Sharing Portal** built with **React 19**, **TypeScript**, **Hono**, **tRPC**, **Drizzle ORM**, and **MySQL**. The application follows **Object-Oriented Design (OOD)** principles and provides a scalable Q&A platform featuring **OAuth authentication**, **Role-Based Access Control (RBAC)**, **ElasticSearch-inspired search**, bookmarking, voting, and user reputation.
